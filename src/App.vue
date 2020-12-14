@@ -127,15 +127,15 @@ body {
   transition: 0.4s;
 }
 #app.rain {
-  background-image: url("./assets/rain.gif");
+  background-image: url("./assets/rain-bg.jpg");
   transition: 0.4s;
 }
 #app.clouds {
-  background-image: url("./assets/clouds.gif");
+  background-image: url("./assets/clouds-bg.jpg");
   transition: 0.4s;
 }
 #app.clear {
-  background-image: url("./assets/clear.gif");
+  background-image: url("./assets/clear-bg.jpg");
   transition: 0.4s;
 }
 main {
